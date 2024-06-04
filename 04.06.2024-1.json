@@ -1,0 +1,25 @@
+{
+    "name": "Peter Banks",
+    "age": 69,
+    "address": {
+        "street": "Tyler Alley",
+        "city": "Michaelshire",
+        "state": "Texas",
+        "zip": "28384"
+    },
+    "contact": {
+        "phone": "307-712-2482",
+        "servicePhone": "800389542"
+    },
+    "birthday": "1956-04-06",
+    "ip": "208.113.31.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Box service piece program forward. Us understand fund like boy must. Vote herself stuff difficult thing seven.",
+        "bio": "Throw well light. Worker blood save language then turn view. Trouble bed current myself against and.\nAttorney leader address area middle. No order parent respond. All expert popular section believe."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
