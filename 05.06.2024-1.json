@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Cannon",
+    "age": 31,
+    "address": {
+        "street": "Morgan Ways",
+        "city": "Port Ashley",
+        "state": "North Dakota",
+        "zip": "71562"
+    },
+    "contact": {
+        "phone": "001-579-811-4553x7331",
+        "servicePhone": "800338164"
+    },
+    "birthday": "1994-21-09",
+    "ip": "154.250.118.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Too training might feeling sell. Personal public share four all garden research.",
+        "bio": "Question million fight. Drop series thus. It little door. Task under step response.\nDegree maintain simply arm just."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
