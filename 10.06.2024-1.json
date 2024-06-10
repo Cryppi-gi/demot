@@ -1,0 +1,25 @@
+{
+    "name": "Lori Williams",
+    "age": 73,
+    "address": {
+        "street": "Robinson Meadows",
+        "city": "Port Bethanystad",
+        "state": "Kentucky",
+        "zip": "58541"
+    },
+    "contact": {
+        "phone": "372-383-4976x58596",
+        "servicePhone": "800376145"
+    },
+    "birthday": "1952-14-04",
+    "ip": "116.143.196.48",
+    "foo": "bar",
+    "profile": {
+        "about": "With condition strong audience. Project according myself media work subject.\nGround ten decade new. Often build base field so true chair. Cultural order usually head leader.",
+        "bio": "Reach big newspaper activity her decade use. Line truth tough impact street wife.\nTalk with piece assume marriage. Military eight bag. Hard finish girl feeling."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
