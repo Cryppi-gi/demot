@@ -1,0 +1,25 @@
+{
+    "name": "Christy Cabrera",
+    "age": 4,
+    "address": {
+        "street": "Hayes Avenue",
+        "city": "East Donnashire",
+        "state": "Oklahoma",
+        "zip": "81222"
+    },
+    "contact": {
+        "phone": "+1-313-800-8343x3398",
+        "servicePhone": "800622207"
+    },
+    "birthday": "2021-16-09",
+    "ip": "115.72.221.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Body different accept theory ask charge professor. Benefit remember production movement option read without. School would size Mr.",
+        "bio": "Color second large stay various big go.\nBuy environmental value any spend give lead. During wind expert month."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
