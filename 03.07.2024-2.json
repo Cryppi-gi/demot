@@ -1,0 +1,25 @@
+{
+    "name": "Donald Blair",
+    "age": 23,
+    "address": {
+        "street": "Garcia Island",
+        "city": "Helenfort",
+        "state": "Hawaii",
+        "zip": "57276"
+    },
+    "contact": {
+        "phone": "(304)774-8884x9402",
+        "servicePhone": "800453790"
+    },
+    "birthday": "2002-17-02",
+    "ip": "112.201.198.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Central so same allow walk air partner picture. Continue PM story word. Often eat upon. Individual according security century indeed when matter research.",
+        "bio": "Would dark expect manager find. National thus general not mission.\nRecent choose may. Turn far husband simply hear send certain."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
