@@ -1,0 +1,25 @@
+{
+    "name": "Kristin Curtis",
+    "age": 99,
+    "address": {
+        "street": "Derrick Divide",
+        "city": "Port Theresa",
+        "state": "Oregon",
+        "zip": "70955"
+    },
+    "contact": {
+        "phone": "+1-822-871-2852",
+        "servicePhone": "800403057"
+    },
+    "birthday": "1926-17-08",
+    "ip": "46.94.88.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Account product region realize state goal quite. Cultural some maintain.\nSense standard price any report rule not learn.",
+        "bio": "Learn hit serve worry public. Assume myself TV sport.\nProgram reflect choice side trip year. Short down cultural speak catch catch use."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
