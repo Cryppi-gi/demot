@@ -1,0 +1,25 @@
+{
+    "name": "Dwayne Thomas",
+    "age": 56,
+    "address": {
+        "street": "Mosley Haven",
+        "city": "Lake Ronald",
+        "state": "North Dakota",
+        "zip": "89921"
+    },
+    "contact": {
+        "phone": "001-430-562-3493",
+        "servicePhone": "800301248"
+    },
+    "birthday": "1969-18-09",
+    "ip": "206.183.34.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Unit what hundred Republican indicate tough measure. Dog all end today use quite south form.\nImprove certain do design area magazine. Brother second dog they travel quite site. Until bank seat too.",
+        "bio": "Three wait fill budget investment central smile take. Choose suddenly chair risk party walk. Because hope simple cultural see."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
