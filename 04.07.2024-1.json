@@ -1,0 +1,25 @@
+{
+    "name": "Kristy Mccoy",
+    "age": 41,
+    "address": {
+        "street": "Pruitt Locks",
+        "city": "East Lauren",
+        "state": "Minnesota",
+        "zip": "24232"
+    },
+    "contact": {
+        "phone": "001-978-381-7353x918",
+        "servicePhone": "800627614"
+    },
+    "birthday": "1984-27-06",
+    "ip": "140.170.155.56",
+    "foo": "bar",
+    "profile": {
+        "about": "My natural day. Something thus hand minute. Ball charge about relate western quickly anyone again.",
+        "bio": "Although job lot director world cold professor. Person knowledge throughout kitchen feel tough year. Allow actually all oil gun."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
