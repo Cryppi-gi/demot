@@ -1,0 +1,25 @@
+{
+    "name": "James Chang",
+    "age": 28,
+    "address": {
+        "street": "Peters Mill",
+        "city": "South Amandaport",
+        "state": "Texas",
+        "zip": "23735"
+    },
+    "contact": {
+        "phone": "9646767269",
+        "servicePhone": "800263362"
+    },
+    "birthday": "1997-07-08",
+    "ip": "170.145.91.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Daughter some fire school page child. Lot must yourself truth yes food. Station themselves little serious tell despite stop. Any offer present represent.\nEconomy move focus television.",
+        "bio": "Current couple year agency never write dream. Get yard visit tend.\nParticular your dinner fast theory. Development attack deal possible. More imagine yourself these war every value want."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
