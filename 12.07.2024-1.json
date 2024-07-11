@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Miller",
+    "age": 108,
+    "address": {
+        "street": "Mcgee Mount",
+        "city": "South Robert",
+        "state": "Idaho",
+        "zip": "70476"
+    },
+    "contact": {
+        "phone": "(549)647-4531x62785",
+        "servicePhone": "800335884"
+    },
+    "birthday": "1917-04-04",
+    "ip": "94.15.196.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Look hand option second various. Science idea meeting.\nTreat common again dream country life. Whose just rather size however tend notice. Clear since night many. Identify system baby wall no.",
+        "bio": "Article term particularly school. Rock learn training financial above information push. Memory near more financial door someone area.\nClose especially paper picture. Money price now try sell instead."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
