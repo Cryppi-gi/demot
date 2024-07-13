@@ -1,0 +1,25 @@
+{
+    "name": "Karina Snyder",
+    "age": 33,
+    "address": {
+        "street": "Robert Orchard",
+        "city": "North Taylor",
+        "state": "South Carolina",
+        "zip": "75728"
+    },
+    "contact": {
+        "phone": "+1-674-210-1114x961",
+        "servicePhone": "800433495"
+    },
+    "birthday": "1992-23-09",
+    "ip": "28.220.72.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Leg training my remain. Authority employee head protect.\nPrevent evidence once society. Production return interest manage yourself.",
+        "bio": "Three network reduce different other. Majority seat behavior film exist enough event.\nOr too future behind through education finish. Sometimes democratic food whose thus collection you."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
