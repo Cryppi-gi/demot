@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Hoffman",
+    "age": 53,
+    "address": {
+        "street": "Kaitlyn Bypass",
+        "city": "Contrerasstad",
+        "state": "Wisconsin",
+        "zip": "61077"
+    },
+    "contact": {
+        "phone": "597-713-3527x29588",
+        "servicePhone": "800776034"
+    },
+    "birthday": "1972-04-06",
+    "ip": "207.51.208.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Staff as throughout some meeting avoid. Take without lead less live pretty campaign media. Well sea various machine suddenly necessary.",
+        "bio": "Foreign personal pass agency myself. Real research Republican already national wife.\nFirst field hot walk. Both at court unit little half."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
