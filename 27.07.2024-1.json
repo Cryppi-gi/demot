@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Wiggins",
+    "age": 23,
+    "address": {
+        "street": "Hartman Forge",
+        "city": "Teresachester",
+        "state": "Ohio",
+        "zip": "33078"
+    },
+    "contact": {
+        "phone": "973.361.1839",
+        "servicePhone": "800081599"
+    },
+    "birthday": "2002-12-12",
+    "ip": "7.33.63.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Majority trouble statement.\nInto on together can exist enjoy. Different now onto behind. Consumer tell production third.\nWhat church decision perform reality.",
+        "bio": "Lead employee this. Speech financial ground mission.\nPurpose message that up evidence. Ago next hot admit almost measure late."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
