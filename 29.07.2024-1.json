@@ -1,0 +1,25 @@
+{
+    "name": "Ruth Ray",
+    "age": 66,
+    "address": {
+        "street": "Herman Forest",
+        "city": "South Jodiborough",
+        "state": "Ohio",
+        "zip": "57806"
+    },
+    "contact": {
+        "phone": "+1-877-373-0215",
+        "servicePhone": "800762872"
+    },
+    "birthday": "1959-23-09",
+    "ip": "215.55.166.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Film me step improve ahead. Save skill rich agree determine. Authority area race reason car something individual teach.",
+        "bio": "Early which brother summer. News white agency throughout firm scene yet speech. Hot level entire choose police."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
