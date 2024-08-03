@@ -1,0 +1,25 @@
+{
+    "name": "Steven Moore",
+    "age": 26,
+    "address": {
+        "street": "Deborah Glens",
+        "city": "Davidville",
+        "state": "Missouri",
+        "zip": "10061"
+    },
+    "contact": {
+        "phone": "(964)890-8317",
+        "servicePhone": "800958647"
+    },
+    "birthday": "1999-05-06",
+    "ip": "35.132.230.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Power outside later play threat trip central. Base staff significant hit opportunity draw.\nJust door go final. Spring special yes should however. Management among fish such.",
+        "bio": "Fast prove join white stock else. Into full of among. Design memory great product political scene."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
