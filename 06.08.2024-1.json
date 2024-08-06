@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Jimenez",
+    "age": 71,
+    "address": {
+        "street": "Sherri Fields",
+        "city": "East Jillian",
+        "state": "Alabama",
+        "zip": "69928"
+    },
+    "contact": {
+        "phone": "530.972.4215x91812",
+        "servicePhone": "800403274"
+    },
+    "birthday": "1954-14-10",
+    "ip": "29.64.218.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Shoulder article young range. Quality start easy protect already size local. Might eye campaign arrive.",
+        "bio": "Likely ago listen moment stock nothing. Leader population center summer trouble if success member. Color break small look heavy clear family."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
