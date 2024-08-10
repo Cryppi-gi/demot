@@ -1,0 +1,25 @@
+{
+    "name": "Amber Rose",
+    "age": 48,
+    "address": {
+        "street": "Amber Pike",
+        "city": "Longshire",
+        "state": "Idaho",
+        "zip": "10226"
+    },
+    "contact": {
+        "phone": "(315)408-5744x7030",
+        "servicePhone": "800251929"
+    },
+    "birthday": "1977-06-07",
+    "ip": "178.234.146.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Increase table stuff song check their. Live north high company local century. Project full couple voice line.",
+        "bio": "Right scene bad. You make sure large boy artist fly bank. Before performance under campaign."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
