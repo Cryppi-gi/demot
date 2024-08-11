@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Liu",
+    "age": 19,
+    "address": {
+        "street": "Peggy Glens",
+        "city": "Ashleyview",
+        "state": "Montana",
+        "zip": "26198"
+    },
+    "contact": {
+        "phone": "7098170364",
+        "servicePhone": "800993318"
+    },
+    "birthday": "2006-14-12",
+    "ip": "131.46.188.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Key today strategy tree. Box course sit hold to. Two plan center race.\nTeacher ready one nothing. Growth success today blood.",
+        "bio": "Hundred management buy word girl. Memory nice kind present. Level book PM media chance Mr ten.\nCouple if admit light shoulder ahead police example. Career upon local national clear."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
