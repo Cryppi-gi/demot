@@ -1,0 +1,25 @@
+{
+    "name": "Melvin Smith",
+    "age": 94,
+    "address": {
+        "street": "Kyle Forge",
+        "city": "Arellanotown",
+        "state": "South Carolina",
+        "zip": "40040"
+    },
+    "contact": {
+        "phone": "695-874-1981",
+        "servicePhone": "800882073"
+    },
+    "birthday": "1931-17-07",
+    "ip": "123.140.94.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Popular force environmental letter peace attorney. Beyond central how international.",
+        "bio": "Factor new rise positive himself staff. Good writer power parent item garden history audience."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
