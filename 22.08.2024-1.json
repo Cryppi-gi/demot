@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Landry",
+    "age": 95,
+    "address": {
+        "street": "Megan Fords",
+        "city": "Meyermouth",
+        "state": "Idaho",
+        "zip": "57560"
+    },
+    "contact": {
+        "phone": "600.549.5845x545",
+        "servicePhone": "800418516"
+    },
+    "birthday": "1930-10-04",
+    "ip": "37.70.91.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Sing resource tax article very one fight particularly. Black fly side week bar.\nYour too work Democrat source.\nHand hope their foot.",
+        "bio": "Save road have. About where card his.\nCreate news future such energy. Nation building quickly happen black."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
