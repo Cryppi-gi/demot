@@ -1,0 +1,25 @@
+{
+    "name": "Juan Kennedy",
+    "age": 60,
+    "address": {
+        "street": "Bell Spur",
+        "city": "Lake Jill",
+        "state": "Montana",
+        "zip": "19686"
+    },
+    "contact": {
+        "phone": "+1-569-883-5804",
+        "servicePhone": "800095423"
+    },
+    "birthday": "1965-20-02",
+    "ip": "160.61.198.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Project any break time cost. Attention cost child sense act foreign receive. Admit issue race street stay.\nBuild worker land politics. Measure challenge change upon much operation.",
+        "bio": "Meet listen standard town. Magazine need western sit.\nSit customer walk. Home fear many everybody data computer different. Language do the million see."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
