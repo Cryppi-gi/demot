@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Baker",
+    "age": 110,
+    "address": {
+        "street": "Rick Ways",
+        "city": "West Anna",
+        "state": "Indiana",
+        "zip": "69152"
+    },
+    "contact": {
+        "phone": "(395)541-7768x06547",
+        "servicePhone": "800056201"
+    },
+    "birthday": "1915-21-10",
+    "ip": "215.245.200.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Source baby worker American foot economic. Worker court partner you conference during. War administration notice whatever economy.",
+        "bio": "Pretty degree today other with impact. Pattern agreement although use model other. Hotel important and us sign."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
