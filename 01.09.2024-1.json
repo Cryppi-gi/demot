@@ -1,0 +1,25 @@
+{
+    "name": "Gerald Ramirez",
+    "age": 33,
+    "address": {
+        "street": "Goodman Via",
+        "city": "Kaiserview",
+        "state": "North Dakota",
+        "zip": "90167"
+    },
+    "contact": {
+        "phone": "+1-340-860-8721x18104",
+        "servicePhone": "800205899"
+    },
+    "birthday": "1992-06-09",
+    "ip": "80.98.65.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Develop notice situation. Direction piece response there to thousand.\nSense hit enough once deep drop few. Drug have rather by born light. Surface street space against task part say.",
+        "bio": "Watch traditional future lead to many. Space health throughout PM news for method. Defense everybody paper pull.\nHappy apply it fine other street maybe. Final ever society occur where."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
