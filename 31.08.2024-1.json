@@ -1,0 +1,25 @@
+{
+    "name": "Sonya Crawford",
+    "age": 24,
+    "address": {
+        "street": "Caleb Extensions",
+        "city": "Allisonport",
+        "state": "New Mexico",
+        "zip": "27352"
+    },
+    "contact": {
+        "phone": "(254)473-6770x728",
+        "servicePhone": "800116642"
+    },
+    "birthday": "2001-04-11",
+    "ip": "80.112.116.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Suffer employee allow operation whom low. General reason skill ahead.\nFamily to own exist before lot. Whatever back western. Agency husband teacher wonder task process out.",
+        "bio": "Great not include under address walk. Which spend off politics know.\nParty sort point such. Bring scientist institution reach dream second. Thousand within possible red defense none high."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
