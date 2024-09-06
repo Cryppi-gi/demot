@@ -1,0 +1,25 @@
+{
+    "name": "April Hopkins",
+    "age": 3,
+    "address": {
+        "street": "Gary Rue",
+        "city": "Lopezstad",
+        "state": "Indiana",
+        "zip": "16702"
+    },
+    "contact": {
+        "phone": "+1-888-752-7570",
+        "servicePhone": "800669024"
+    },
+    "birthday": "2022-12-09",
+    "ip": "191.187.61.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Beat ready difficult bit trip capital. So stay perform reality offer left rock. Expect citizen to opportunity positive business let. Probably room paper operation reason available market.",
+        "bio": "Memory industry fund. Share responsibility lay education positive reflect. Either plan chair people.\nOfficer own article drug although. Carry into deep within step. Single word near admit."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
