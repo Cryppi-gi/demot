@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Robinson",
+    "age": 106,
+    "address": {
+        "street": "Zamora Green",
+        "city": "Lake Patriciaborough",
+        "state": "Mississippi",
+        "zip": "32375"
+    },
+    "contact": {
+        "phone": "302.293.5668x726",
+        "servicePhone": "800175194"
+    },
+    "birthday": "1919-17-03",
+    "ip": "60.71.172.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Onto view common him enough cost. Away tell indicate charge we meeting accept.\nLose run manager difficult hotel grow. Head poor price whom TV when research. Training seven mean some fast might.",
+        "bio": "Maintain last probably stage bar simply world. Movie role than idea.\nWhile trouble not myself similar million mean. Reality heavy federal film."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
