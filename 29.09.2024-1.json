@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Gutierrez",
+    "age": 103,
+    "address": {
+        "street": "Jonathan Roads",
+        "city": "Carriemouth",
+        "state": "Maryland",
+        "zip": "39256"
+    },
+    "contact": {
+        "phone": "(420)442-0146",
+        "servicePhone": "800204719"
+    },
+    "birthday": "1922-17-04",
+    "ip": "171.24.160.203",
+    "foo": "bar",
+    "profile": {
+        "about": "International rock our cover agree foreign building. Coach economy agency citizen protect between choice. Space information standard in shoulder account town official.",
+        "bio": "Your family movement describe. Region strong author.\nPerform central someone money alone among plant. Smile employee down. Expert realize late treatment any carry pass."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
