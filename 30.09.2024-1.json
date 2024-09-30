@@ -1,0 +1,25 @@
+{
+    "name": "Jenna Rios",
+    "age": 38,
+    "address": {
+        "street": "Brown Garden",
+        "city": "Maryburgh",
+        "state": "Utah",
+        "zip": "37871"
+    },
+    "contact": {
+        "phone": "765.401.2807x52959",
+        "servicePhone": "800421192"
+    },
+    "birthday": "1987-27-03",
+    "ip": "143.157.172.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Reach approach medical hand. Since civil senior full. Keep manager suddenly statement brother book.",
+        "bio": "Heart interest piece reach nature assume bank. Occur car common allow. Everybody system strategy party your success."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
