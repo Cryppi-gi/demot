@@ -1,0 +1,25 @@
+{
+    "name": "Julie Li",
+    "age": 28,
+    "address": {
+        "street": "Megan Highway",
+        "city": "North Catherine",
+        "state": "Maine",
+        "zip": "02587"
+    },
+    "contact": {
+        "phone": "(432)912-4695x93420",
+        "servicePhone": "800565182"
+    },
+    "birthday": "1997-08-03",
+    "ip": "126.194.88.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Responsibility much smile certainly trouble in. Home land bar think responsibility. World training view agency citizen draw card.",
+        "bio": "Firm interest occur discussion everything author to off. Expect factor eat watch prevent.\nEvent best defense around want street nation. Finish try chair. Employee level but first at game major."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
