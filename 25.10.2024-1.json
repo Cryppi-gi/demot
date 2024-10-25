@@ -1,0 +1,25 @@
+{
+    "name": "Kathryn Roberts",
+    "age": 44,
+    "address": {
+        "street": "Kemp Trace",
+        "city": "South Kenneth",
+        "state": "Texas",
+        "zip": "56804"
+    },
+    "contact": {
+        "phone": "386-793-6038x3786",
+        "servicePhone": "800631358"
+    },
+    "birthday": "1981-20-05",
+    "ip": "209.77.197.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Anyone painting man. Phone behind feeling necessary speech.\nItem to follow agent walk. Music board challenge head sister. Long we bit course degree operation game.",
+        "bio": "Thing explain century positive together recognize. Begin physical surface address rock. Less star give PM set institution."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
