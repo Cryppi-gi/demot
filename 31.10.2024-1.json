@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Thompson",
+    "age": 9,
+    "address": {
+        "street": "Natalie Fort",
+        "city": "Jillbury",
+        "state": "Idaho",
+        "zip": "62789"
+    },
+    "contact": {
+        "phone": "964-779-1659x05918",
+        "servicePhone": "800857952"
+    },
+    "birthday": "2016-03-06",
+    "ip": "61.1.224.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Book perhaps war likely. Nice special order now.\nPicture appear lay. Manager she ten stay.\nOrganization avoid expert high. Radio road ball our decide man everything.",
+        "bio": "Economy audience structure put always. Drug big hit add. Hold describe style notice skin for political."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
