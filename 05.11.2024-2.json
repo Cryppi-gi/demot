@@ -1,0 +1,25 @@
+{
+    "name": "Lawrence Rodriguez",
+    "age": 92,
+    "address": {
+        "street": "Sanders Drive",
+        "city": "South Ericaview",
+        "state": "Massachusetts",
+        "zip": "42746"
+    },
+    "contact": {
+        "phone": "(223)970-7701x75809",
+        "servicePhone": "800091894"
+    },
+    "birthday": "1933-01-05",
+    "ip": "199.110.197.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Try recently factor knowledge. Itself two gas here beyond.\nPlant you general yes program look month. Of him figure sing PM black whom.\nMaintain nature address. Present three major eight debate.",
+        "bio": "Phone even three administration suddenly. Theory avoid factor your conference. Claim task star reason."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
