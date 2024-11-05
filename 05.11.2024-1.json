@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Bell",
+    "age": 112,
+    "address": {
+        "street": "Adam Stream",
+        "city": "New Lisa",
+        "state": "Georgia",
+        "zip": "25335"
+    },
+    "contact": {
+        "phone": "(676)392-4173",
+        "servicePhone": "800170513"
+    },
+    "birthday": "1913-20-07",
+    "ip": "118.162.133.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Huge mention money service up trouble. Opportunity interesting discover find research week like.\nProduction across toward reason guy direction too. Once method list.",
+        "bio": "Live shake story professor win place ever. View instead picture. Event conference away painting."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
