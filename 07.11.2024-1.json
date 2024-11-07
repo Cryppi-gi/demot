@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Bowers",
+    "age": 41,
+    "address": {
+        "street": "Joel Neck",
+        "city": "Cindyview",
+        "state": "Tennessee",
+        "zip": "13387"
+    },
+    "contact": {
+        "phone": "549.873.4661",
+        "servicePhone": "800400382"
+    },
+    "birthday": "1984-19-03",
+    "ip": "66.241.225.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Executive play medical remember. Deep parent hard old she hour forget respond. And tough attention task government culture above.\nMovie off catch. Left similar evening measure expect.",
+        "bio": "Method lead guy word. Wait room difficult energy wife my. Whole according song than six.\nShare strong action ball. Actually know go foreign work drug."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
