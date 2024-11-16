@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Serrano",
+    "age": 58,
+    "address": {
+        "street": "Davis Mill",
+        "city": "Odomfurt",
+        "state": "Maryland",
+        "zip": "48743"
+    },
+    "contact": {
+        "phone": "001-841-712-4733x46228",
+        "servicePhone": "800874722"
+    },
+    "birthday": "1967-01-01",
+    "ip": "219.17.182.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Its build example early seek win.\nIncluding accept place career. Will say window court debate.\nSpace than continue task star. Building citizen son market quite. Mention outside consumer.",
+        "bio": "Magazine magazine into feeling Republican.\nForward social customer manage after arrive again candidate. Wrong four early attack. Citizen dog line."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
