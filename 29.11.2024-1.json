@@ -1,0 +1,25 @@
+{
+    "name": "Paul Gonzalez",
+    "age": 97,
+    "address": {
+        "street": "Ortiz Estate",
+        "city": "Banksberg",
+        "state": "Pennsylvania",
+        "zip": "90901"
+    },
+    "contact": {
+        "phone": "+1-615-853-8830",
+        "servicePhone": "800276925"
+    },
+    "birthday": "1928-02-02",
+    "ip": "179.52.25.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Produce everyone head. Per sound top his physical soldier.\nMethod past us generation when. Offer rest natural audience represent recent woman. Program use involve top authority church.",
+        "bio": "Party get design. Effort within law police history. Out night ok friend.\nFine paper senior over person rest. Interesting get difficult color drop. Feel factor other modern."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
