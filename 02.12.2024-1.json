@@ -1,0 +1,25 @@
+{
+    "name": "Jason George",
+    "age": 83,
+    "address": {
+        "street": "Schaefer Extension",
+        "city": "New Julie",
+        "state": "North Dakota",
+        "zip": "40856"
+    },
+    "contact": {
+        "phone": "208.351.7221x62156",
+        "servicePhone": "800217018"
+    },
+    "birthday": "1942-19-06",
+    "ip": "149.23.100.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Car movement national focus imagine happen. Board itself vote manager life. Kitchen that box group decade beat.\nOnly reflect accept surface sound science.",
+        "bio": "Fight eye simply collection. Another figure reduce another.\nWin sense page blue investment PM might benefit. There former pass soldier keep.\nOffice step keep."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
