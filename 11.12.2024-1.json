@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Herrera",
+    "age": 30,
+    "address": {
+        "street": "Rodgers Mountain",
+        "city": "West Mark",
+        "state": "Connecticut",
+        "zip": "23626"
+    },
+    "contact": {
+        "phone": "(597)985-9323x907",
+        "servicePhone": "800131603"
+    },
+    "birthday": "1995-17-01",
+    "ip": "223.168.215.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Ten exist now hair join money as.\nHerself song simple several guess fear. But outside develop leave.\nCourt section early network office late. All performance standard minute determine sign.",
+        "bio": "Half well true education interview accept amount. Especially but yeah.\nPast kind they management whatever tell. Film base process though. Fall mouth party shoulder yard very pull."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
