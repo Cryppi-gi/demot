@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Wheeler",
+    "age": 52,
+    "address": {
+        "street": "Melanie Via",
+        "city": "Jessebury",
+        "state": "Indiana",
+        "zip": "66177"
+    },
+    "contact": {
+        "phone": "570.615.6123",
+        "servicePhone": "800273826"
+    },
+    "birthday": "1973-19-07",
+    "ip": "158.249.216.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Hour soon ahead investment old score sister. History glass major grow run trade cover. Nor gas top hour author section section.",
+        "bio": "Plan technology local. Stop because student them. Community nor save during just.\nSite another mouth year. Century hold health on catch drive son."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
