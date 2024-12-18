@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Smith",
+    "age": 84,
+    "address": {
+        "street": "Mueller Mission",
+        "city": "Vaughnview",
+        "state": "Indiana",
+        "zip": "84371"
+    },
+    "contact": {
+        "phone": "711.673.3212x587",
+        "servicePhone": "800868566"
+    },
+    "birthday": "1941-28-02",
+    "ip": "91.47.23.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Design account kind individual president must. Sense responsibility debate matter question positive evening reflect.\nExpect form environment value lay.",
+        "bio": "Positive analysis fish fly better general happy. Fine through tell medical either allow. Long indeed wall player property."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
