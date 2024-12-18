@@ -1,0 +1,25 @@
+{
+    "name": "James Morales",
+    "age": 44,
+    "address": {
+        "street": "Adams Burg",
+        "city": "Port Catherineton",
+        "state": "Oregon",
+        "zip": "31300"
+    },
+    "contact": {
+        "phone": "569-512-0021",
+        "servicePhone": "800064609"
+    },
+    "birthday": "1981-27-09",
+    "ip": "132.209.144.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Own ask agency food perhaps. Bank why industry address yes military report. Truth team cold by major study.",
+        "bio": "Suddenly build piece town mother sure. Rule pull blood into out north statement. Hot similar sign like pick mouth need point."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
