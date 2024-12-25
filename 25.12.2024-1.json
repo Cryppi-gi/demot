@@ -1,0 +1,25 @@
+{
+    "name": "Brandi Schroeder",
+    "age": 45,
+    "address": {
+        "street": "Smith Estate",
+        "city": "Kingville",
+        "state": "Idaho",
+        "zip": "74820"
+    },
+    "contact": {
+        "phone": "375-995-5570x212",
+        "servicePhone": "800773435"
+    },
+    "birthday": "1980-01-08",
+    "ip": "97.64.118.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Cold nation mouth southern true. Science focus scientist garden evidence dream choose. Recent international capital.",
+        "bio": "Would space cultural. Accept rise answer firm safe. Step effect key begin suffer but.\nAnalysis describe scene. From or section worker speak art similar. Common majority short election individual."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
