@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Torres",
+    "age": 17,
+    "address": {
+        "street": "Shepard Estate",
+        "city": "New Matthewburgh",
+        "state": "Alaska",
+        "zip": "19497"
+    },
+    "contact": {
+        "phone": "412-200-5836x14620",
+        "servicePhone": "800885676"
+    },
+    "birthday": "2008-08-02",
+    "ip": "38.59.144.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Evening evening maybe everybody inside special. Hundred fill most laugh story. Officer reflect look enjoy sell politics parent.\nMiddle forward official strategy. Company day any stock Mrs.",
+        "bio": "Rise feel spend seem despite. Population may would bad letter Mr.\nDrug side generation him improve camera. These unit deep western. By Republican leg speech."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
