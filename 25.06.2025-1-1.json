@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Rollins",
+    "age": 110,
+    "address": {
+        "street": "Tiffany Mountains",
+        "city": "Acevedoview",
+        "state": "Washington",
+        "zip": "31154"
+    },
+    "contact": {
+        "phone": "9832543724",
+        "servicePhone": "800933617"
+    },
+    "birthday": "1915-27-11",
+    "ip": "202.152.198.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Question natural benefit four travel benefit. Husband late improve though some style strong. Economic fly also person.",
+        "bio": "Avoid PM option reduce reason part might. Reflect usually together fall dark go. Project can pay.\nImprove raise land forget wind age teacher. He old white accept."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
