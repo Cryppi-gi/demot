@@ -1,0 +1,25 @@
+{
+    "name": "Rose Parrish",
+    "age": 45,
+    "address": {
+        "street": "Valenzuela Drives",
+        "city": "Lake Richard",
+        "state": "Alabama",
+        "zip": "94181"
+    },
+    "contact": {
+        "phone": "263-336-8304x1266",
+        "servicePhone": "800401300"
+    },
+    "birthday": "1980-30-08",
+    "ip": "142.176.21.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Here run detail religious. Involve why heavy.\nWhen building player car. Hair animal manager coach hold. Police seek benefit sing.\nTotal through feel along week mention.",
+        "bio": "Fly now guess security.\nAnything sometimes order a attack tough owner. Late listen seem forward nor mind though player."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
