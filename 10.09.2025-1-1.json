@@ -1,0 +1,25 @@
+{
+    "name": "Sheila Faulkner",
+    "age": 18,
+    "address": {
+        "street": "Nancy Mountains",
+        "city": "Chanshire",
+        "state": "Washington",
+        "zip": "21682"
+    },
+    "contact": {
+        "phone": "9217616874",
+        "servicePhone": "800443200"
+    },
+    "birthday": "2007-31-10",
+    "ip": "185.178.56.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Special owner me consumer believe operation able rise. Home stop resource kid discover manage factor compare.\nAround very miss be reveal air pattern cut. Those down suffer thus.",
+        "bio": "Study hard that many rest something. Magazine affect attack direction total amount.\nTime figure available wind real. Teacher factor these money radio for road. Old if across religious center."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
