@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Berger",
+    "age": 106,
+    "address": {
+        "street": "Jones Spring",
+        "city": "New Gloria",
+        "state": "Kentucky",
+        "zip": "55315"
+    },
+    "contact": {
+        "phone": "775-784-4997",
+        "servicePhone": "800847531"
+    },
+    "birthday": "1919-28-05",
+    "ip": "43.16.249.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Again any yard light least bring. Building argue per six. Water number less information. Experience education whatever.\nBit bring scientist perhaps. Better realize training father.",
+        "bio": "Answer foot read rather air up. Few child generation.\nGuess tend option look control politics. Eight stuff teacher sometimes care because. Direction police new order reflect support main."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}

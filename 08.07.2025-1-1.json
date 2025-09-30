@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Burton",
+    "age": 25,
+    "address": {
+        "street": "Thomas Station",
+        "city": "East Marthachester",
+        "state": "New Jersey",
+        "zip": "37042"
+    },
+    "contact": {
+        "phone": "409-469-9357x9895",
+        "servicePhone": "800675402"
+    },
+    "birthday": "2000-30-06",
+    "ip": "11.27.47.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Soldier eye perhaps stand. However heavy ok firm. Would society represent check there police nice.",
+        "bio": "Type discussion subject account white. Training them Mrs too kitchen until under. Successful successful well usually."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
