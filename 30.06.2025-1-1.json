@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Crawford",
+    "age": 63,
+    "address": {
+        "street": "Stevenson Ford",
+        "city": "North Micheleside",
+        "state": "California",
+        "zip": "33085"
+    },
+    "contact": {
+        "phone": "597.798.4526x419",
+        "servicePhone": "800580670"
+    },
+    "birthday": "1962-26-05",
+    "ip": "165.9.210.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Grow my teacher control. Identify with involve prove although nothing.\nUpon worry evidence contain. Our agree growth media throw just. Option heart little how. Baby best remember decide guy eat.",
+        "bio": "Mission head miss easy this whatever. Movement third meet method another see song.\nMaybe through play. Always put for stay entire nice such."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
