@@ -1,0 +1,25 @@
+{
+    "name": "Brianna Black",
+    "age": 66,
+    "address": {
+        "street": "Oconnor Springs",
+        "city": "North Martin",
+        "state": "Arizona",
+        "zip": "89458"
+    },
+    "contact": {
+        "phone": "(246)964-8456",
+        "servicePhone": "800696741"
+    },
+    "birthday": "1959-22-11",
+    "ip": "205.38.96.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Check the computer success.\nCut would newspaper imagine meet lawyer such might. While what race suddenly sense miss.\nManager himself bank growth.",
+        "bio": "Now cover decide professor tonight method food. Attack nothing similar and hard specific sell third.\nSouthern talk TV stage. Gun remember because last respond either food."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
