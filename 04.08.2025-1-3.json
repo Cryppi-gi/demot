@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Martinez",
+    "age": 49,
+    "address": {
+        "street": "King Harbors",
+        "city": "South Blakeburgh",
+        "state": "Utah",
+        "zip": "16332"
+    },
+    "contact": {
+        "phone": "270.782.2639",
+        "servicePhone": "800048014"
+    },
+    "birthday": "1976-17-06",
+    "ip": "106.123.204.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Home live toward air behavior. Laugh want citizen your something.\nGreen push agree rise military term focus.",
+        "bio": "Power forward child voice. Think model mean official him green.\nArgue cause main such. Scene life indeed magazine.\nStreet term best last develop theory."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}

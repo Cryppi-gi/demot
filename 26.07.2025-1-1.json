@@ -1,0 +1,25 @@
+{
+    "name": "Lynn Parks",
+    "age": 84,
+    "address": {
+        "street": "Paul Mountains",
+        "city": "Gomezfurt",
+        "state": "Florida",
+        "zip": "99443"
+    },
+    "contact": {
+        "phone": "910-583-3603x02720",
+        "servicePhone": "800902828"
+    },
+    "birthday": "1941-11-07",
+    "ip": "120.42.80.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Affect American fish gas street military. Ability affect third national old until. Office sense accept pay whom happy bit stand.",
+        "bio": "Walk opportunity consumer painting business school hand. Room improve age necessary include ready.\nDecade who six meet so. Same news surface particularly education cover. Market toward record."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
