@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Thomas",
+    "age": 21,
+    "address": {
+        "street": "John Throughway",
+        "city": "Michaelberg",
+        "state": "Massachusetts",
+        "zip": "37191"
+    },
+    "contact": {
+        "phone": "378-863-0485",
+        "servicePhone": "800228177"
+    },
+    "birthday": "2004-23-03",
+    "ip": "193.193.14.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Standard accept body thousand standard director second next. Us thank future seem weight money could. Early crime green his water pressure. Pay strong little near foot candidate tell.",
+        "bio": "During pattern increase compare store result until. House miss although impact card occur."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}

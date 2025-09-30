@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Paul Lloyd",
+    "age": 65,
+    "address": {
+        "street": "Jennifer Throughway",
+        "city": "New Charles",
+        "state": "Connecticut",
+        "zip": "57594"
+    },
+    "contact": {
+        "phone": "(512)486-2988x74861",
+        "servicePhone": "800167824"
+    },
+    "birthday": "1960-02-06",
+    "ip": "199.28.150.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Film speech party improve popular state education. Bill station bring memory.\nYoung information hope mention show notice sell. Debate create contain become some example base plan.",
+        "bio": "Nice response some drop keep project huge. Write this decade up will south.\nArgue treatment yard finally compare enough each despite. Bag within article."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
