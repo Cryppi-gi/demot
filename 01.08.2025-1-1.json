@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Cobb",
+    "age": 39,
+    "address": {
+        "street": "Carly Brooks",
+        "city": "West Alexischester",
+        "state": "South Carolina",
+        "zip": "17350"
+    },
+    "contact": {
+        "phone": "4318226236",
+        "servicePhone": "800005522"
+    },
+    "birthday": "1986-31-05",
+    "ip": "115.152.159.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Lay southern if address result. Economy themselves theory night even less.\nForeign early present player method along. Well likely spring call per. Then whether you stage ready seven girl.",
+        "bio": "Rather kid fish suffer. Federal manage friend.\nVery reflect work. Hold pass would director miss lawyer election. Practice professional president beyond available cultural food sport."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
