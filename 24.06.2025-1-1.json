@@ -1,0 +1,25 @@
+{
+    "name": "Debra Ortiz",
+    "age": 66,
+    "address": {
+        "street": "Rosario Coves",
+        "city": "Josephbury",
+        "state": "Minnesota",
+        "zip": "01557"
+    },
+    "contact": {
+        "phone": "001-242-936-3926",
+        "servicePhone": "800934570"
+    },
+    "birthday": "1959-02-12",
+    "ip": "192.84.63.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Stand eat must night. Level couple might.\nNever identify six interview card risk. Point report design.\nSpeech well economic main. Because employee politics smile within.",
+        "bio": "Agreement benefit usually behavior stop measure over. Whatever experience yard personal read church.\nThroughout fight popular design trip. Together customer all article crime interesting read."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}

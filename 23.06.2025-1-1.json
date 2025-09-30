@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Dalton",
+    "age": 56,
+    "address": {
+        "street": "Tyler Green",
+        "city": "Steveville",
+        "state": "Arizona",
+        "zip": "37480"
+    },
+    "contact": {
+        "phone": "933-588-3935",
+        "servicePhone": "800304318"
+    },
+    "birthday": "1969-19-08",
+    "ip": "55.184.94.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Employee number shake sound civil maybe establish. Bank adult prove hard suffer among of push. Newspaper hard may idea own. Grow model arrive or author realize movie party.",
+        "bio": "Include deal age various foot relate.\nDrop send enough wife discover. Former make natural. Modern power important both. He read thank argue."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}

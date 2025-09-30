@@ -1,0 +1,25 @@
+{
+    "name": "Robert Bartlett",
+    "age": 25,
+    "address": {
+        "street": "Helen Junction",
+        "city": "West Karen",
+        "state": "South Carolina",
+        "zip": "53590"
+    },
+    "contact": {
+        "phone": "9166389461",
+        "servicePhone": "800169225"
+    },
+    "birthday": "2000-16-03",
+    "ip": "18.48.219.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Official every various admit style. Room contain box light. Image sell as yourself eight.\nThere yard better. Common far bad truth listen election century.",
+        "bio": "Customer near ability attack country evidence appear four. Commercial a administration nice president any. Among thus resource none population national challenge."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
