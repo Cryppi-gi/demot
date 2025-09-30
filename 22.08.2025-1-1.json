@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Eric Rose",
+    "age": 54,
+    "address": {
+        "street": "Vincent Corner",
+        "city": "East Jennifer",
+        "state": "Texas",
+        "zip": "44987"
+    },
+    "contact": {
+        "phone": "944.697.7248x3426",
+        "servicePhone": "800976985"
+    },
+    "birthday": "1971-06-01",
+    "ip": "147.161.85.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Least difference learn many. Capital audience move statement. Fill perform want seven color crime relate.\nDeep rest pay much across. Into radio suddenly possible.",
+        "bio": "Great total play should business land. Discover good any this nor system I machine.\nMorning top likely particular street. Once production recent him. Government argue a improve."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
