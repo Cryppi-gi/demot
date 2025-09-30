@@ -1,0 +1,25 @@
+{
+    "name": "Bridget Lambert",
+    "age": 111,
+    "address": {
+        "street": "Lisa Roads",
+        "city": "North Williamton",
+        "state": "Michigan",
+        "zip": "15398"
+    },
+    "contact": {
+        "phone": "001-973-423-7402x6677",
+        "servicePhone": "800656530"
+    },
+    "birthday": "1914-27-09",
+    "ip": "179.53.223.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Wide education tree discover white. This fly agreement century.\nPresident authority station. Method grow provide hour talk find thought. Half yard deal life.",
+        "bio": "Election resource gun any if a five. Thing action make. Kitchen under high cell federal.\nOrganization find play information. Loss reduce lawyer development truth parent."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}

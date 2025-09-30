@@ -1,0 +1,25 @@
+{
+    "name": "Scott Mann",
+    "age": 103,
+    "address": {
+        "street": "Keith Inlet",
+        "city": "Hernandezstad",
+        "state": "Louisiana",
+        "zip": "24564"
+    },
+    "contact": {
+        "phone": "904-901-0215x81705",
+        "servicePhone": "800114033"
+    },
+    "birthday": "1922-01-07",
+    "ip": "55.36.27.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Safe question put soon sort degree truth. Rich decade since easy bit support.\nReason final spend degree follow. Teach rest blood capital stay. Trial data century everyone dog box.",
+        "bio": "Common candidate sea history organization research recently. Do actually former when condition. Professor now most on true.\nHour store civil writer plant force. Fire Mrs yes when mean mother project."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
