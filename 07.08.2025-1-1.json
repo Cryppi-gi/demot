@@ -1,0 +1,25 @@
+{
+    "name": "Paul Roberts",
+    "age": 112,
+    "address": {
+        "street": "Kyle Drive",
+        "city": "West Teresaton",
+        "state": "North Dakota",
+        "zip": "79343"
+    },
+    "contact": {
+        "phone": "+1-264-361-7310x673",
+        "servicePhone": "800898972"
+    },
+    "birthday": "1913-07-08",
+    "ip": "199.45.133.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Few red almost hit. Second carry heavy least home consider. Everything notice place remain at message. Within eat audience guess present way.",
+        "bio": "Firm quite newspaper ball. Clearly street message consider.\nLess set table environment attack clear."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Cristian Ramos",
+    "age": 34,
+    "address": {
+        "street": "Susan Plain",
+        "city": "Combshaven",
+        "state": "Alaska",
+        "zip": "75446"
+    },
+    "contact": {
+        "phone": "(613)527-8920",
+        "servicePhone": "800056256"
+    },
+    "birthday": "1991-08-01",
+    "ip": "71.170.106.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Fire life sign deal spring program mother. Myself gas painting own what.\nTerm relate heart plant light. Cover live could challenge use.",
+        "bio": "Suffer shoulder human along participant. Worry idea major rich important. Difference truth war wait community white dog."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}

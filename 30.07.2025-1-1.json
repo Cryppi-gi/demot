@@ -1,0 +1,25 @@
+{
+    "name": "Linda Myers MD",
+    "age": 2,
+    "address": {
+        "street": "Smith Parks",
+        "city": "East Patricia",
+        "state": "Oregon",
+        "zip": "79388"
+    },
+    "contact": {
+        "phone": "306-947-4101x4545",
+        "servicePhone": "800090134"
+    },
+    "birthday": "2023-03-09",
+    "ip": "52.30.157.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Top night full operation single.\nWish another could mention mention our. Week term performance fund general want catch. Brother reveal official.",
+        "bio": "Summer none month pass. We wind but goal cultural pull down.\nSeek authority TV cause four appear late marriage. Allow watch relationship. Part blue growth cultural laugh read."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
