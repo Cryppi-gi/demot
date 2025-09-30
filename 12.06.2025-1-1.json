@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Johns",
+    "age": 71,
+    "address": {
+        "street": "Weaver Ports",
+        "city": "Swansonbury",
+        "state": "Massachusetts",
+        "zip": "38065"
+    },
+    "contact": {
+        "phone": "(644)277-8432x553",
+        "servicePhone": "800498699"
+    },
+    "birthday": "1954-06-10",
+    "ip": "49.125.203.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Country expert short fact community Democrat. Meeting medical executive put.\nItself staff suggest west south magazine know. Ok everybody upon close political. Bit guy staff your.",
+        "bio": "Admit officer event last teach upon. Wind north become feeling left business father identify. Senior will oil suddenly case specific. Agree there method baby."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}

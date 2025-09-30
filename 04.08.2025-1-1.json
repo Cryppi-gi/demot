@@ -1,0 +1,25 @@
+{
+    "name": "Michael Johnson",
+    "age": 98,
+    "address": {
+        "street": "Charles Ferry",
+        "city": "Port Jamesstad",
+        "state": "South Dakota",
+        "zip": "15217"
+    },
+    "contact": {
+        "phone": "963.650.2424x7917",
+        "servicePhone": "800930327"
+    },
+    "birthday": "1927-28-01",
+    "ip": "145.213.57.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Country station past when base there tell visit. Marriage few stage course benefit successful. Consumer those environment improve nor wear national.",
+        "bio": "Believe hair start wait college man. Share position south step low. Somebody television south unit town none or."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
