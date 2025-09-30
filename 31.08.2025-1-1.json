@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Barrett",
+    "age": 8,
+    "address": {
+        "street": "Griffin Shore",
+        "city": "Esparzatown",
+        "state": "Nevada",
+        "zip": "53692"
+    },
+    "contact": {
+        "phone": "682.368.3768",
+        "servicePhone": "800842063"
+    },
+    "birthday": "2017-07-02",
+    "ip": "56.185.252.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Every ten health real deep hit itself. Store nor parent.\nMore traditional how poor land common let himself. Manager ago card person administration. Forget exist letter onto culture cold wrong.",
+        "bio": "Off agent compare party show front single. Phone low fast loss generation sport since.\nDog oil close such. Somebody people themselves pattern chance recent thank win."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
